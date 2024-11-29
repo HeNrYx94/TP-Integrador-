@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      21
+    ],
+    "SourceCsetId": 22,
+    "DestinationCsetId": 21,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scripts/KittenCollector.cs",
+        "ItemId": 2642,
+        "ParentItemId": 1165,
+        "BaseRevId": 2674,
+        "SourceRevId": 7045,
+        "DestinationRevId": 2674
+      },
+      {
+        "Path": "/Assets/DefaultPrefabObjects.asset",
+        "ItemId": 4634,
+        "ParentItemId": 163,
+        "BaseRevId": 7027,
+        "SourceRevId": 7041,
+        "DestinationRevId": 7027
+      }
+    ]
+  }
+]
